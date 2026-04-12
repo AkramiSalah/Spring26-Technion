@@ -1,4 +1,5 @@
-# ⚡ Academic-Overclock: Speed-Run Tracker
+# ⚡ Spring26-Technion
+
 **Goal:** Leverage past foundations to finish lectures early and maximize practice time.
 
 ## 🏃 Active Speed-Run Tracks
